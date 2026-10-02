@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Q-Resolve 8D</string>
+    <string name="brand_subtitle">ENTERPRISE CAPA V4.8</string>
+    <string name="plant_header">Plant #4 - Detroit Powertrain &amp; Electronics</string>
+    <string name="search_placeholder">Search 8D #, Part Rev, Lot Code... [Ctrl+K]</string>
+    <string name="escalations_badge">2 ESCALATIONS PENDING D3</string>
+    <string name="compliance_badge">IATF 16949 / ISO 9001</string>
+    <string name="nav_dashboard">8D Dashboard &amp; Incident Control</string>
+    <string name="nav_d4_workbench">Root Cause Engine (D4)</string>
+    <string name="nav_d5_d6_pca">PCA &amp; Validation (D5/D6)</string>
+    <string name="nav_d7_fmea">Standardization &amp; FMEA (D7)</string>
+    <string name="nav_d8_closure">D8: Closure &amp; Team Recognition</string>
+    <string name="nav_dossier">AIAG / VDA Executive Dossier</string>
+    <string name="nav_lessons">Lessons Learned Repository</string>
+</resources>
